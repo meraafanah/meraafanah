@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mera Afanah" height="30" width="40" /></a>
 
 ## 🚀 About Me
-- 🎓 **Computer Science Senior** at Arab American University - Palestine (Class of 2026).
+- 🎓 **Computer Science Senior** at Arab American University - Palestine (Graduating January 2027).
 - 💡 Passionate about **Software Development**, **Mobile Apps**, and **Computer Graphics**.
 - 🌟 Currently enhancing my skills through the **SkyGeeks** advanced computer science program.
 - 🗣️ **Multilingual:** Native in **Arabic** & **Turkish**, Upper-Intermediate in **English**, and basic **Hebrew**.
